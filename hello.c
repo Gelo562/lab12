@@ -1,2 +1,6 @@
-#!/bin/bash
-echo "Hello world!"
+#include "print.h"
+
+int main(){
+	print();
+	return 0;
+}
